@@ -15,8 +15,7 @@ export const GlobalStyle = createGlobalStyle`
 :focus {
 
     outline: 0;
-
-    box-shadow: 0 0 0 2px ;
+   
 }
 
 
@@ -32,7 +31,7 @@ body {
 
 body, input, textarea,button {
 
-    font-family: 'Roboto',sans-serif;
+    font-family: 'Nunito', sans-serif;
 
     font-weight: 400;
 
