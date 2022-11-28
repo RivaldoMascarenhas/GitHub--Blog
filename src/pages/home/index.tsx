@@ -1,7 +1,12 @@
+import { Form } from "../../components/form";
 import { Profile } from "../../components/profile";
 
 export function Home() {
     return (
-        <Profile />
+        <div>
+            <Profile />
+            <Form />
+        </div>
+
     )
 }

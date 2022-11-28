@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Logo = styled.div`
-  background-image: url("./public/Cover.svg");
+  background-image: url("./Cover.svg");
   min-height: 296px;
   background-repeat: no-repeat;
   background-size: cover;
