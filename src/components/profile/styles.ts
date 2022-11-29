@@ -54,4 +54,6 @@ export const Github = styled.a`
   font-size: 0.75rem;
   text-decoration: none;
   color: ${(props) => props.theme.blue};
+  cursor: pointer;
+  user-select: none;
 `;
